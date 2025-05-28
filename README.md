@@ -1,36 +1,36 @@
-# Sistema de Agendamento de Laboratórios
+# Laboratory scheduling system
 
-Este projeto foi desenvolvido para facilitar o agendamento de salas de laboratório por professores da [Nome da Faculdade]. A plataforma permite que docentes reservem horários de forma simples e organizada, evitando conflitos de uso e otimizando a gestão dos espaços disponíveis.
+This project was developed to facilitate the scheduling of laboratory rooms by teachers of the [Faculty]. The platform allows teachers to reserve schedules in a simple and organized way, avoiding conflicts of use and optimizing the management of available spaces.
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- Cadastro e login de professores
-- Visualização de disponibilidade dos laboratórios
-- Agendamento de horários com data e duração
-- Histórico de reservas realizadas
-- Cancelamento de agendamentos
-- Painel administrativo (opcional)
+- Teacher Registration and Login
+- LABORATORY AVAILABILITY VISION
+- Schedule of schedules with date and duration
+- History of reserves made
+- Schedule cancellation
+- Administrative Panel (Optional)
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies used
 
-- **Frontend**: [Ex: React, Vue, Angular]
-- **Backend**: [Ex: Node.js, Django, Flask]
-- **Banco de Dados**: [Ex: PostgreSQL, MongoDB, MySQL]
-- **Autenticação**: [Ex: JWT, OAuth2]
-- **Outros**: [Ex: TailwindCSS, Bootstrap, Prisma, etc.]
+- **Frontend**: Reactxjs, 
+- **Backend**: Docker, Java
+- **Database**: MySQL
+- **Others**: 
 
-## 💡 Como Usar
+## 💡 How to use
 
-### Pré-requisitos
+### Prerequisites
 
 - [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/)
-- [Outros, se necessário: Docker, PostgreSQL, etc.]
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [Others, if necessary: ​​docker, postgresql, etc.]
 
-### Instalação
+### Installation
 
-1. Clone o repositório:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/seu-usuario/nome-do-projeto.git
-cd nome-do-projeto
+CD Name-of the project
+```
